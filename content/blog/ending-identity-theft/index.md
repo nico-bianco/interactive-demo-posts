@@ -1,6 +1,8 @@
 ---
 title: Ending identity theft
 date: 2021-04-27T12:50:24.414Z
+author: Fernando Sanchez
+readingTime: 10
 description: Alata PRISM is here to end identity theft
 ---
 ![](identity_theft3.jpg)
