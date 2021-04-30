@@ -4,9 +4,8 @@ date: 2021-04-27T12:50:24.414Z
 author: Fernando Sanchez
 readingTime: 10
 description: Alata PRISM is here to end identity theft
+image: identity_theft3.jpg
 ---
-![](identity_theft3.jpg)
-
 # What is identity theft
 
 Encyclopedia Britannica defines identity theft as the use of an individual’s personally identifying information by someone else (often a stranger) without that individual’s permission or knowledge. This form of impersonation is often used to commit fraud, generally resulting in financial harm to the individual and financial gain to the impersonator.
