@@ -4,6 +4,7 @@ date: 2021-05-18T12:47:07.591Z
 author: Fernando Sanchez
 readingTime: 10
 description: A global financial revolution.
+image: cashless1.jpg
 ---
 If someone asked you for a dollar to show off a magic trick, would you pull one out of your pocket or ask them if they accepted a card instead? Chances are not carrying any cash. However, it’s likely that you do have access to fiat money through a debit card, phone wallet payments, or even biometric verification. Turns out the magic trick is being done on the whole world fiat currencies are slowly disappearing. 
 
