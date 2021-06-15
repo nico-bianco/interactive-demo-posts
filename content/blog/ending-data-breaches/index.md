@@ -1,10 +1,13 @@
 ---
 title: Ending data breaches
 date: 2021-04-28T16:30:00.000Z
+author: Fernando Sanchez
+readingTime: 10
 description: In the past decade, two landmark events torpedoed customer trust in
   large corporations below the waterline. Two incidents in which the identities
   of hundreds of millions of people, who believed their data was safely stored
   online, were misappropriated by third parties.
+image: image.jpg
 ---
 In the past decade, two landmark events torpedoed customer trust in large corporations below the waterline. Two incidents in which the identities of hundreds of millions of people, who believed their data was safely stored online, were misappropriated by third parties.
 
