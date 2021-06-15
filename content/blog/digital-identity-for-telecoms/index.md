@@ -5,6 +5,7 @@ author: Fernando Sanchez
 readingTime: 10
 description: Digital identity frameworks can make a huge impact on telecoms,
   reducing fraud, costs, and friction.
+image: digital_identity.jpg
 ---
 The invention of the telephone is generally credited to Edinburgh-born Alexander Graham Bell, who, in August of 1876, made history when staff at the Dominion Telegraph Company in Brantford, Ontario clearly heard cheerful voices and singing coming through a hastily improvised wire that went all the way to the Bell Homestead, where a party was being held.
 
